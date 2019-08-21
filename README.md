@@ -25,6 +25,9 @@ python  python_docker.py titanic
 Movie Name is ==>['titanic']
 Rotten Tomatoes Ratings -->89%
 # Error Handled
+
 API Key Wrong
+
 Movie name not found
+
 No Ratings are present
