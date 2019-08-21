@@ -30,8 +30,6 @@ Rotten Tomatoes Ratings -->89%
 
 # Error Handled
 
-API Key Wrong
-
 Movie name not found
 
 No Ratings are present
