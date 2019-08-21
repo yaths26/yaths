@@ -14,7 +14,7 @@ docker pull yaths/imdb_test:docker
 docker images
 # run the image as a container
 
-docker run -ti -d [imagedid]
+docker run -ti -d [imageid]
 # Get the container id
 
 docker ps
