@@ -21,9 +21,13 @@ docker ps
 # Get inside container to execute script
 
 docker exec -it [containerid] /bin/bash
+
 python  python_docker.py titanic
+
 Movie Name is ==>['titanic']
+
 Rotten Tomatoes Ratings -->89%
+
 # Error Handled
 
 API Key Wrong
